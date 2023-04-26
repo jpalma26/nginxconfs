@@ -1,0 +1,9 @@
+sudo chmod 644 nginx.conf
+sudo chown root:root nginx.conf
+
+sudo chmod 644 site.conf
+sudo chown root:root site.conf
+
+sudo chmod 755 conf.d
+sudo chown root:root conf.d
+
